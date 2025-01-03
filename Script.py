@@ -115,13 +115,13 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\"Kindly join our channel and group😉 
+    FILE_CAPTION = """<b>{file_name}\n\Kindly join our channel and group😉 
 
  ♻️  Main Channel  -  @Jail_LinkzZ
 
 ♻️ Discussion group -  @jailmoviehdbackup_08
 
-🔺Admin🔻 - @Jailadmin_bot" 
+🔺Admin🔻 - @Jailadmin_bot 
 「<a href="tg://settings">Mʏ ʙᴇsᴛ ғʀɪᴇɴᴅ</a>」</b>"""
     
 
