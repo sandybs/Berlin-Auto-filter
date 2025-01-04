@@ -119,13 +119,15 @@ User - {}"""
 
  ♻️  Main Channel  -  @Jail_LinkzZ
 
-♻️ Discussion group -  @jailmoviehdbackup_08
+♻️ Discussion group -  @jailmoviehdbackup_06
 
 🔺Admin🔻 - @Jailadmin_bot" 
 「<a href="tg://settings">Mʏ ʙᴇsᴛ ғʀɪᴇɴᴅ</a>」</b>"""
     
 
-    ALRT_TXT = """🖤❣️ !"""
+    ALRT_TXT = """ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ  🤡
+
+  ʀᴇQᴜᴇꜱᴛ ʏᴏᴜʀꜱᴇʟꜰ  😇 !"""
 
     OLD_ALRT_TXT = """ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ ᴍʏ ᴏʟᴅ ᴍᴇssᴀɢᴇs..sᴇɴᴅ ᴀ ɴᴇᴡ ʀᴇǫᴜᴇsᴛ.."""
 
