@@ -115,7 +115,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\Kindly join our channel and group😉 
+    FILE_CAPTION = """<b>{file_name}\n\"Kindly join our channel and group😉 
 
  ♻️  Main Channel  -  @Jail_LinkzZ
 
