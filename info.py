@@ -13,20 +13,20 @@ def is_enabled(value, default):
 #---------------------------------------------------------------
 #---------------------------------------------------------------         ,
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '12553805'))
-API_HASH = environ.get('API_HASH', '600346f70ed43ebf3a873c755d022503')
-BOT_TOKEN = environ.get('BOT_TOKEN', '')
+API_ID = int(environ.get('API_ID', '19721774'))
+API_HASH = environ.get('API_HASH', 'a97ece8467cfbc4bc77f31fa56d68a8e')
+BOT_TOKEN = environ.get('BOT_TOKEN', '6441759250:AAHefaWMeUXeCXg-F4fZ9kpI02Lw9ClXzZw')
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1491400016').split()]
-USERNAME = environ.get('USERNAME', "https://t.me/Mobarak46") # ADMIN USERNAME
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001654008278'))
-MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/jailmoviehdbackup_06')
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001853672009').split()]
+USERNAME = environ.get('USERNAME', "https://t.me/Mobarak46" "https://t.me/This_is_SandyBS") # ADMIN USERNAME
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001880140310'))
+MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/SCExploreMoviesDiscussion')
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001879591588').split()]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://jaillinkzz:RwvSxN48ibaqFnLN@cluster0.fwpks.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DATABASE_NAME = environ.get('DATABASE_NAME', "jaillinkzz")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://mkxcloud46:NmJfKIiFt1FrrVCs@cluster0.xoxhl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_NAME = environ.get('DATABASE_NAME', "mkxcloud46")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 #---------------------------------------------------------------
 #---------------------------------------------------------------
@@ -39,7 +39,7 @@ auth_channel = environ.get('AUTH_CHANNEL', '-1001782441380')
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '0'))
 request_channel = environ.get('REQUEST_CHANNEL', '0')
 MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '0'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/jailmoviehdbackup_06') #Support group link ( make sure bot is admin )
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/SCExploreMoviesDiscussion') #Support group link ( make sure bot is admin )
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 IS_VERIFY = is_enabled('IS_VERIFY', False)
@@ -68,22 +68,22 @@ REQUEST_CHANNEL = int(request_channel) if request_channel and id_pattern.search(
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-START_IMG = (environ.get('START_IMG', 'https://graph.org/file/6ebdd37bffb17837af4d8-36b89ba51d5052f46f.jpg')).split()
-FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://graph.org/file/fc1cf3fe640ecd1beee09-45cd7424bda2eb9a88.jpg')
+START_IMG = (environ.get('START_IMG', 'https://graph.org/file/55df206acb6b69d9df147.jpg')).split()
+FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://graph.org/file/1bb6e8ec24a5851304e91-9704a4d55f773c6af3.jpg')
 REFER_PICS = (environ.get("REFER_PICS", "0")).split() 
 PAYPICS = (environ.get('PAYPICS', '0')).split()
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', '0'))
-REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡"]
+REACTIONS = ["💖", "💜", "🔥", "😍", "🎉", "🥰", "😇", "⚡"]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-FILE_AUTO_DEL_TIMER = int(environ.get('FILE_AUTO_DEL_TIMER', '36000'))
+FILE_AUTO_DEL_TIMER = int(environ.get('FILE_AUTO_DEL_TIMER', '7200'))
 AUTO_FILTER = is_enabled('AUTO_FILTER', True)
 IS_PM_SEARCH = is_enabled('IS_PM_SEARCH', True)
 PORT = environ.get('PORT', '5000')
-MAX_BTN = int(environ.get('MAX_BTN', '8'))
+MAX_BTN = int(environ.get('MAX_BTN', '10'))
 AUTO_DELETE = is_enabled('AUTO_DELETE', False)
-DELETE_TIME = int(environ.get('DELETE_TIME', 36000))
+DELETE_TIME = int(environ.get('DELETE_TIME', 7200))
 IMDB = is_enabled('IMDB', True)
 FILE_CAPTION = environ.get('FILE_CAPTION', f'{script.FILE_CAPTION}')
 IMDB_TEMPLATE = environ.get('IMDB_TEMPLATE', f'{script.IMDB_TEMPLATE_TXT}')
