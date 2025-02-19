@@ -1,6 +1,6 @@
 import os
 class script(object):
-    START_TXT = """<b>ʜᴇʏ {}, {}\n\nɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴍᴏᴠɪᴇs ᴏʀ sᴇʀɪᴇs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ !! 😍\n<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/SCExplorelinks">Exᴘʟᴏʀᴇᴍᴏᴠɪᴇs</a></blockquote></b>"""
+    START_TXT = """<b>ʜᴇʏ {}, {}\n\nɪ ᴀᴍ ᴀ Pᴏᴡᴇʀꜰᴜʟ AᴜᴛᴏFɪʟᴛᴇʀ Bᴏᴛ. Yᴏᴜ Cᴀɴ Usᴇ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ I Wɪʟʟ Gɪᴠᴇ Mᴏᴠɪᴇs Oʀ Sᴇʀɪᴇs Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Pᴍ !! 😍\n<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/SCExplorelinks">Exᴘʟᴏʀᴇᴍᴏᴠɪᴇs</a></blockquote></b>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..\n\n<blockquote>🌿 <a href="https://t.me/Jailadmin_bot">👉🏻 Create Your Own Bot</a></blockquote></b>"""
     
@@ -115,13 +115,11 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\"Kindly join our channel and group😉 
+    FILE_CAPTION = """<b>{file_name}\n\"😉 Kindly Join Our Channel 
 
- ♻️  Main Channel  -  @Jail_LinkzZ
+🎗️Discussion Group 🎗️: @SCMoviesdiscussion
 
-♻️ Discussion group -  @jailmoviehdbackup_06
-
-🔺Admin🔻 - @Jailadmin_bot 
+🎭 Main Channel 🎭 : @SCExplorelinks 
 「<a href="tg://settings">Mʏ ʙᴇsᴛ ғʀɪᴇɴᴅ</a>」</b>"""
     
 
@@ -347,7 +345,7 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 NOTE:
 - Create Your Bot ◉› :<blockquote><a href="https://t.me/Jailadmin_bot">𝗠 𝗢 𝗕 𝗔 𝗥 𝗔 𝗞</a></blockquote>
 
-developer : 𝗠 𝗢 𝗕 𝗔 𝗥 𝗔 𝗞
+developer : I'M DEADPOOL
 </b>""" 
     GROUP_C_TEXT = """<b><blockquote>
  --------------Set Verify-------------
@@ -374,4 +372,4 @@ developer : 𝗠 𝗢 𝗕 𝗔 𝗥 𝗔 𝗞
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀʟʟ ᴅᴇᴛᴀɪʟs 
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
-Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/Jailadmin_bot">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/Jailadmin_bot">𝗔ᴅᴍɪɴ</a></b>"""
+Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/Jailadmin_bot">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/Jailadmin_bot">Aᴅᴍɪɴ</a></b>"""
