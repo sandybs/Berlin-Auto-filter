@@ -343,9 +343,9 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 
     SOURCE_TXT = """<b>
 NOTE:
-- Create Your Bot ◉› :<blockquote><a href="https://t.me/Jailadmin_bot">𝗠 𝗢 𝗕 𝗔 𝗥 𝗔 𝗞</a></blockquote>
+- Create Your Bot ◉› :<blockquote><a href="https://t.me/Jailadmin_bot">Cᴏɴᴛᴀᴄᴛ</a></blockquote>
 
-developer : I'M DEADPOOL
+developer : 𝗜'𝗠 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟
 </b>""" 
     GROUP_C_TEXT = """<b><blockquote>
  --------------Set Verify-------------
